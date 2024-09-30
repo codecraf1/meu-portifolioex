@@ -1,7 +1,8 @@
 
 # MEU PRIMEIRO PROJETO
 
-Esse foi meu projeto feito quando iniciei na apredizagem no Front-end. Foi simples. mais onde tomei gosto pela área da programação. Ainda irei fazer alguns ajuste, mais enquanto a isso estou focado em novos projetos.
+Esse foi meu primeiro projeto feito quando iniciei na apredizagem no Front-end, se trata de um exemplo de portifolio que posso utilizar futuramente para projetos reais. Foi simples. mais onde tomei gosto pela área da programação. Ainda irei fazer alguns ajuste, mais enquanto a isso estou focado em novos projetos.
+[Meu Portifólio ex](https://codecraf1.github.io/meu-portifolioex/) 👈👈 Click Aqui
 
 ## 💻 TECNOLOGIAS FRONT-END
 - HTML
