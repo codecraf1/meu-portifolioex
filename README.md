@@ -7,7 +7,7 @@ Esse foi meu projeto feito quando iniciei na apredizagem no Front-end. Foi simpl
 - HTML
 - CSS
 
-## 💻Resumos das Aulas
+## 💻RESUMO DO PROJETO
 
 E assim foi quando iniciei minha paixão pela programação.
 Eu sempre gostei de tecnologias e esse projeto apesar de ser bastante básico, usei apenas o HTML e CSS, mais me deu orgulho de mim mesmo.
